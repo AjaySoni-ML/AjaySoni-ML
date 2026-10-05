@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AjaySoniDev&style=for-the-badge&color=2563EB" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AjaySoni-ML&style=for-the-badge&color=2563EB" alt="Profile views" />
 </p>
 
 </div>
